@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   .devcontainer/index.html
+#
+# Changes not staged for commit:
+#	modified:   index.html
+#
+# Untracked files:
+#	building1.png
+#	bush.png
+#	forest1.png
+#	forest2.png
+#	gallery.html
+#	tree.png
+#
