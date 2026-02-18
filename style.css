@@ -1,9 +1,21 @@
 html, body {
 background-color: aqua;
 }
-header{background-color: blue;
+header{
+background-color: blue;
+color: black;
+border: 2px solid black;
+padding: 40;
+text-align: center;
 }
-main{background-color: brown;
+main{
+background-color: brown;
+border: 2px solid black;
 }
-nav{background-color: aliceblue;
+nav{
+background-color: aliceblue;
+border: 2px solid black;
+}
+.yellowtext{
+color: yellow;
 }
