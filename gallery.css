@@ -2,12 +2,14 @@ header{
 background-color: blue;
 color: black;
 border: 2px solid black;
-padding: 20;
+padding: 20px;
 text-align: center;
 }
 .image1{
-background-color:200px bisque;
-border: 2px black;
+background-color: brown;
+padding: 20px; color: bisque;
+border-style: dotted;
+margin: 20px;
 }
 html body{
 background-color: aqua;
