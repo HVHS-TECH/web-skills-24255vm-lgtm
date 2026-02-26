@@ -5,12 +5,20 @@ border: 2px solid black;
 padding: 20px;
 text-align: center;
 }
+
 .image1{
 background-color: brown;
 padding: 20px; color: bisque;
 border-style: dotted;
 margin: 20px;
 }
+
 html body{
 background-color: aqua;
+}
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  main{
+    background-color: lightgreen;
+  }
 }

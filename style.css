@@ -36,3 +36,15 @@ color: yellow;
  border:2px solid black;
  margin: 2px;
 }
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  main{
+    background-color: lightgreen;
+  }
+}
+
+@media screen and (min-width: 600px) {
+.grid-container {
+grid-template-columns: auto auto auto;
+}
+}
